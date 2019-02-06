@@ -12,3 +12,5 @@ PCA_tutorial_Fernando.pdf: A tutorial that I wrote explaining Principal Componen
 
 Valladolid_MSc_thesis_abstract.pdf: Abstract of thesis in MSc in Agricultural Engineering (University of Valladolid):
 “Selection of a subset of highly informative loci for the allocation problem of bovine origin samples to their breeds”
+
+patway_analysis.pdf: pathway analysis for the course Advanced Bioinformatics
